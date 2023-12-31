@@ -1,0 +1,19 @@
+Mohammad Khalil
+khalilphayeez2024@gmail.com
++92 (0) 323-8086929
+CAREER OBJECTIVE
+To leverage my strong foundation in computer science and passion for technology to secure a challenging position in the industry, I aim to contribute my skills in software development, problem-solving, and innovative thinking to drive technological advancements and deliver cutting-edge solutions. By continually expanding my knowledge and staying abreast of emerging technologies, I aspire to make significant contributions to the field while fostering personal and professional growth within a dynamic and collaborative work environment.
+EDUCATION
+Bachelor in Computer science from COMSATS University Islamabad, Abbottabad Campus, Session (2019-2023).
+Major Courses:
+Programming Fundamentals, Object-Oriented Programming, Data Structure and Algorithm, Computer Architecture, Database Management System, Operating System, Software Engineering, Data Communication and Computer Network, Artificial Intelligence, Web Development etc.
+Marefat High School, Kabul, Afghanistan (2017)
+SKILLS 
+Computer Skills: Excellent command over Microsoft Office (Word, Excel and PowerPoint)
+Communication Skills: Fluent in Persian, English, Urdu and Pashto and can easily communicate to multiple audiences in large numbers, Excellent command on Report Writing and Document Composition
+Programming languages: Java, JavaScript, C, C++, Node, React and React native. 
+Analytical Skills: Strong problem-solving abilities and the capacity to break down complex problems into logical components for effective solutions.
+RESEARCH 
+Online Crime Reporting System is an app-based Project developed using React-Native. The aim of Online Crime Reporting System is to create an app which people are able to report crime online. It gives the facility of uploading videos or images of crime scenes and mapping the exact location of crime to ensure that authorities can take action immediately.
+Experience
+Customer Service Agent Toplead BPO Company, Abbottabad, Pakistan (Sep 2023 – Nov 2023) 
